@@ -1,0 +1,4 @@
+C:\Users\igorg\source\repos\Калькулятор C#\obj\Debug\net7.0\Калькулятор C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorg\source\repos\Калькулятор C#\obj\Debug\net7.0\Калькулятор C#.AssemblyInfoInputs.cache
+C:\Users\igorg\source\repos\Калькулятор C#\obj\Debug\net7.0\Калькулятор C#.AssemblyInfo.cs
+C:\Users\igorg\source\repos\Калькулятор C#\obj\Debug\net7.0\Калькулятор C#.csproj.CoreCompileInputs.cache
